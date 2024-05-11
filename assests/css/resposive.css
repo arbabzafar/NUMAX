@@ -1,0 +1,61 @@
+@media only screen and (max-width: 768px) {
+  .navbar-brand{
+    height: 58px;
+  }
+    .navbar-brand.mobile-logo img {
+      width: 100px !important ;
+    }
+    .navbar-brand.mobile-logo {
+      margin-right: 0;
+      padding: 0 1em;
+    }
+    .line{
+        display: none;
+    }
+    .banner-section .small-heading h4, .product-heading h3 {
+      font-size: 23px;
+      line-height: 27px;    
+  }
+  .banner-section .big-heading h1 {
+    font-size: 30px;
+    line-height: 42px;
+  }
+    .card-column {
+     margin: 0 auto;
+     padding-bottom: 23px;
+    }
+    .product-heading h4 {
+      font-size: 30px; 
+      line-height: 50px; 
+  }
+  .habit-hd{
+    font-size: 16px;
+  }
+  .experince-section h3 {
+    padding-top: 20px;
+    font-size: 31px;
+    line-height: 36px;
+}
+.footer-section h3 {
+  font-size: 20px;
+  line-height: 22px;
+ 
+}
+.experince-section .exp-items {
+   
+   margin-left: 0; 
+}
+
+
+  }
+  @media only screen and (max-width:766px){
+    .product-cards .card {
+       width: 100%;
+    }
+    .card-container{
+      max-width: 100%;
+    }
+  }
+  
+
+  
